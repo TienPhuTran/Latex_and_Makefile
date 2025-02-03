@@ -10,4 +10,4 @@ clean:
 
 view: resume.pdf
 	@echo "Opening resume.pdf..."
-	xdg-open resume.pdf || open resume.pdf
+	xdg-open resume.pdf || open resume.pdf || start resume.pdf
